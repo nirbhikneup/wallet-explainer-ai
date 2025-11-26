@@ -1,23 +1,16 @@
 # Wallet Explainer AI 🧠
 
-A tiny web app that connects to your MetaMask wallet and lets you **chat with an AI about your Ethereum wallet in simple language**.
+### 🚀 Live Demo  
+https://wallet-explainer-ai.vercel.app/
 
-It reads your **public wallet address + ETH balance** and helps you understand:
-- What your balance means in normal words
-- How to safely send or receive ETH
-- Basic wallet safety and scam awareness
+A lightweight web app that connects to your MetaMask wallet and lets you **chat with an AI about your Ethereum wallet**.  
+It explains your balance, safety practices, and wallet basics in simple language.
 
-No seed phrases, no private keys, no investment advice.
+**Tech Stack:** Next.js 14, TypeScript, ethers.js, MetaMask, OpenAI (gpt-4o-mini), Vercel  
+**Repository:** https://github.com/nirbhikneup/wallet-explainer-ai
 
 ---
 
-## 🔧 Tech Stack
-
-- [Next.js](https://nextjs.org/) (App Router)
-- [TypeScript](https://www.typescriptlang.org/)
-- [ethers.js](https://docs.ethers.org/) for MetaMask + Ethereum connection
-- [OpenAI API](https://platform.openai.com/) (`gpt-4o-mini`) as the explainer
-- Deployed on [Vercel](https://vercel.com/)
 
 ---
 
